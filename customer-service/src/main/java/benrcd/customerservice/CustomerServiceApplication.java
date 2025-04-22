@@ -31,7 +31,6 @@ public class CustomerServiceApplication {
                 System.out.println(c.getId());
                 System.out.println(c.getName());
                 System.out.println(c.getEmail());
-                System.out.println("=======================");
             });
         };
     }
