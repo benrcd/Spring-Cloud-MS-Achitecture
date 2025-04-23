@@ -1,3 +1,6 @@
+![img.png](img.png)
+
+
 ### 📦 spring-boot-starter-actuator
 * Purpose: Exposes production-ready endpoints (health checks, metrics, etc.).
 * Use case: Enables monitoring tools like Prometheus, shows app status at /actuator/*.
