@@ -1,6 +1,11 @@
+# MS architecture + interactions
 ![img.png](img.png)
 
+## Further steps:
+* Implement Docker to the app
+* Implement kubernetes to manage containers
 
+## Reminder
 ### 📦 spring-boot-starter-actuator
 * Purpose: Exposes production-ready endpoints (health checks, metrics, etc.).
 * Use case: Enables monitoring tools like Prometheus, shows app status at /actuator/*.
